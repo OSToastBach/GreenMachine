@@ -1,4 +1,4 @@
-# GreenMachine
+# The Green Machine
 A Dragon 32 demo tape duo released at Field-FX 2022
 Achieved 1st place in the Demo compo!
 
